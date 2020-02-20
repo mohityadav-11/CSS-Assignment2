@@ -1,0 +1,77 @@
+
+body{
+	padding:5.0em;
+	padding-left:15.0em;
+	padding-right:15.0em;
+}
+
+table{
+	width: 100%;
+}
+
+
+td{
+	padding:0.5em;
+}
+
+.divCenter{
+		padding-left:5.0em;
+	padding-top:5.0em;
+	padding-right:5.0em;
+	text-align:center;
+}
+
+.divLeft{
+	padding:5.0em;
+	background-color:yellow
+	text-align:center;
+}
+
+.divRight{
+	padding:1.1em;
+	background-color:#ECECFB;
+	text-align:center;
+}
+
+
+.leftBack{
+	width:95%;
+	border-style:solid;
+	border:3px solid yellow;
+	background-image:url('Assignment-2-img-1.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+	.leftBack p{
+		font-size:1.5em;
+		padding:3.0em;
+		color:white;
+	}
+	
+.rightBack{
+	border-style:solid;
+	width:5%;
+	padding:0.4em;
+}
+   
+ 
+.divTop{
+	border-style:solid;
+	padding-left:1.5em;
+	padding-top:1.5em;
+	padding-right:1.5em;
+	background-color:#FF9999;
+	float:center;
+}
+
+	.divTop p{
+		font-size:1.5em;
+		text-align:center;
+	}
+	
+	.divTop h1{
+		padding-left:2.5em;
+		padding-right:2.5em;
+	}
+
